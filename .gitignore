@@ -1,0 +1,32 @@
+venv/
+.venv/
+env/
+ENV/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.pkl
+
+*.pt
